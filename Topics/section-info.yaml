@@ -1,3 +1,5 @@
+custom_name: Topics
 content:
-- Arguments
-- Errors
+- Exceptions
+- Built-in exceptions
+- Exception handling
